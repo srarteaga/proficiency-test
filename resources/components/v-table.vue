@@ -46,6 +46,7 @@
 
 <script>
 export default {
+  name: 'VTable',
   props: {
     properties: Array,
     propertyTypes: Array,

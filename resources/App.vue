@@ -16,7 +16,7 @@
 
 <script>
 import { users, propertyTypes, properties } from '@/mocks/api';
-import VTable from './components/table.vue';
+import VTable from './components/v-table.vue';
 
 export default {
   name: 'App',
